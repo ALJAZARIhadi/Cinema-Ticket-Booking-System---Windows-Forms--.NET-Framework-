@@ -1,0 +1,17 @@
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\cinemaAppWihtPdf.exe.config
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\cinemaAppWihtPdf.exe
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\cinemaAppWihtPdf.pdb
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\itextsharp.dll
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\bin\Debug\itextsharp.xml
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.csproj.AssemblyReference.cache
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.Form1.resources
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.Properties.Resources.resources
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.csproj.GenerateResource.cache
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.csproj.CoreCompileInputs.cache
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAp.806608DD.Up2Date
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.exe
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.pdb
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.exe.config
+C:\Users\talal\source\repos\cinemaAppWihtPdf\cinemaAppWihtPdf\obj\Debug\cinemaAppWihtPdf.LoginForm.resources
