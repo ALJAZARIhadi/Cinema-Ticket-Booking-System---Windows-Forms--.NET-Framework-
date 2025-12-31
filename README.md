@@ -1,5 +1,6 @@
 <img width="910" height="477" alt="Image" src="https://github.com/user-attachments/assets/839610c7-97fa-4989-8ab3-819bee8d0a73" />
 
+![Image](https://github.com/user-attachments/assets/12e59be3-9588-4dfc-9e6e-d0330c5e2e0e)
 
 ✨ Features
 
