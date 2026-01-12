@@ -108,7 +108,7 @@ Saved directly to the Desktop for easy access
 
 Clone the repository:
 
-git clone https://github.com/your-username/cinema-windows-forms-app.git
+git clone https://github.com/ALJAZARIhadi/cinema-windows-forms-app.git
 
 
 Open the .sln file in Visual Studio
@@ -149,7 +149,7 @@ Reports & statistics
 
 👨‍💻 Author
 
-[Your Name]
+ABDULHADI KEZZA
 
 📜 License
 
